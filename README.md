@@ -1,4 +1,4 @@
-# LA-Centos7-SaaS-JenkinsMaster
+# LA-Centos7-IaaS-JenkinsMaster
 Linux Academy Environmental Setup for Centos7 Jenkins Master
 Linux Jenkins QuickStart Course describes how to prep the environment including the following:
 JAVA installation (with yum sources updates)

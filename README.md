@@ -8,4 +8,5 @@ Linux Jenkins QuickStart Course describes how to prep the environment including 
 * ssh key management with slave configuration**
 
 *some steps are no longer required after upgrading to the playground
+
 **slave configuration to be defined in a separate repo

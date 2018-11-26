@@ -5,8 +5,6 @@ Linux Jenkins QuickStart Course describes how to prep the environment including 
 * selinux configuration (with management tools installation)*
 * git installation
 * nginx installation (with configuration for Jenkins proxy)*
-* ssh key management with slave configuration**  [TODO]
 
 *some steps are no longer required after upgrading to the playground
 
-**slave configuration to be defined in a separate repo
